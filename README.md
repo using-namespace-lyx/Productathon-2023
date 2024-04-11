@@ -1,6 +1,6 @@
 # <span style="color:blue">Productathon-2023</span>
 
-## <span style="color:green">Productathon 2023 - An Embedded System Hackathon organized by Department of Computer Science and Engineering, RVCE</span>
+## <span style="color:green">Productathon 2023 - An Embedded Systems Hackathon organized by Department of Computer Science and Engineering, RVCE</span>
 
 The problem statement involved creating unique prototypes using Microcontrollers.
 
