@@ -519,7 +519,7 @@ int main()
 	
 	int ia = 5;
 	char buf[5];
-	 // 0000....100 – Stop the timer, after match	
+	 // 0000....100 Â– Stop the timer, after match	
 	lcdTest("Processing........");
 	while (ia > 0){
 		sprintf(buf, "%5d", ia);
